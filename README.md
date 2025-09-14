@@ -41,12 +41,6 @@ This repository provides tools and pipelines for **uploading, processing, and an
 
 If you use this repository in your research, please cite:  
 
-@article{YourName2025OtolithAI,
-title = {Automated Otolith Morphology Analysis using AI},
-author = {Your Name and Collaborators},
-journal = {Under Submission},
-year = {2025}
-}
 
 ## Contact
 For questions or issues, please open an issue in this repository or contact the maintainers
