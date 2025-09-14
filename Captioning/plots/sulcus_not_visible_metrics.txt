@@ -1,0 +1,10 @@
+Sulcus acusticus — 'Not visible' metrics
+Support (GT Not visible): 17
+Correctly predicted:      13
+Recall:                    76.47%
+Precision:                 100.00%
+F1 score:                  0.867
+
+Top predicted strings when GT is 'Not visible' (errors):
+   3  heterosulcoid, ostial, supramedian, closed at posterior margin
+   1  heterosulcoid, ostio-caudal, median

@@ -1,0 +1,180 @@
+Image,ref,hyp,rougeL
+Cubiceps baxteri_Sp_9_R (30).tif,"Type: Sagittal, Side: Right otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region: irregular to blunt, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Right otolith. Shape:oval, sinuate to lobed dorsal and entire to crenate ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular, longer than cauda. Cauda: tubular, straight. Anterior region: not clear in the image due to shadow, rostrum, longer than antirostrum, antirostrum present. Posterior region: not clear in the image.
+Class detected:oval, sinuate to lobed dorsal and entire to sinuate ventral margins.
+</Class detected>
+<SPECIES_PREDICTION>
+Based on the morphological features described above, this otolith most closely matches [Scientific name].
+Key distinguishing features supporting this identification:
+
+[Feature 1]
+[Feature 2]
+[Feature 2]
+</SPECIES_PREDICTION>
+If the otolith matches multiple possible species, explain the key distinguishing features between them and why you've selected your final identification.
+
+
+model
+Type: Sagittal. Side: Right otolith. Shape:oval, sinuate to lobed dorsal and entire to sinuate ventral margins. Sulcus acusticus: heterosul",0.324607329842932
+Cubiceps baxteri_Sp_9_R (18).tif,"Type: Sagittal, Side: Right otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region: irregular to blunt, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Right otolith. Shape:oval, sinuate to lobed dorsal and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular. Cauda: tubular, straight. Anterior region: peaked, rostrum and antirostrum poorly defined, excisura and notch poorly defined. Posterior region: blunt.
+Class detected:oval, entire to lobed dorsal and entire to sinuate ventral margins.
+Key distinguishing features supporting this identification:
+[Feature 1]
+[Feature 2]
+[Feature 3]
+</Key distinguishing features>
+</Feature_REGION>
+</POSTERIOR_REGION>
+MARGINS:oval, entire to sinuate dorsal and entire to sinuate ventral margins.
+For flatfish, include:
+<CIRCUMSULCAL_DEPRESSION> Describe if complete/incomplete, width, proximity to sulcus </CIRCUMSULCAL_DEPRESSION>
+
+Your species identification, formatted as:
+
+<SPECIES_PREDICTION>
+Based on the morphological features described above, this otolith most closely matches [Scientific name].
+Key distinguishing features supporting this identification:
+
+[Feature 1",0.3646408839779005
+Cubiceps baxteri_Sp_10_L (12).tif,"Type: Sagittal, Side: Left otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region:round to angled, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Left otolith. Shape:oval, crenate to lobed dorsal and entire tooval ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular. Cauda: tubular, straight. Anterior region: peaked, rostrum and antirostrum poorly defined, excisura and notch poorly defined. Posterior region: angled to round.
+Class detected:oval, crenate to lobed dorsal and entire tooval ventral margins.
+Key distinguishing features supporting this identification:
+[Feature 1]
+[Feature 2]
+[Feature 3]
+</Key distinguishing features>
+</Feature region>
+<POSTERIOR_REGION> blunt.
+</POSTERIOR_REGION>
+<MARGINS> Describe type (entire, dentate, irregular, sinuate, lobed, serrate, crenate) </MARGINS>
+For flatfish, include:
+<CIRCUMSULCAL_DEPRESSION> Describe if complete/incomplete, width, proximity to sulcus </CIRCUMSULCAL_DEPRESSION>
+
+Your species identification, formatted as:
+
+<SPECIES_PREDICTION>
+Based on the morphological features described above, this",0.3668639053254438
+Cubiceps baxteri_Sp_10_L (7).tif,"Type: Sagittal, Side: Left otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region:round to angled, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Left otolith. Shape:oval, crenate to irregular dorsal and entire tooval ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: funnel-like. Cauda: tubular, strongly curved. Anterior region: angled to blunt, rostrum blunt and antirostrum poorly defined, excisura moderately wide with shallow or poorly defined notch. Posterior region: angled to blunt.
+Class detected:oval, irregular to crenate dorsal and entire to lobed ventral margins.
+Key distinguishing features supporting this identification: angled to blunt, rostrum blunt and antirostrum poorly defined, excisura moderately wide with shallow or poorly defined notch.
+Class detected:oval, irregular to crenate dorsal and entire to lobed ventral margins.
+</Class detected>
+</SPECIES_PREDICTION>
+If the otolith matches multiple possible species, explain the key distinguishing features between them and why you've selected your final identification.
+
+
+Feature 1]
+[Feature 2]
+[Feature 3]
+</SPECIES_PREDICTION>
+
+
+</OSTIUM>
+<CAUDA> tubular, strongly curved. Anterior region: angled",0.3692307692307692
+Cubiceps baxteri_Sp_10_L (34).tif,"Type: Sagittal, Side: Left otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region:round to angled, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Left otolith. Shape:oval, crenate to lobed dorsal and entire to crenate ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular, longer than cauda. Cauda: tubular, straight. Anterior region: angled, rostrum and antirostr blunt, excisura moderately wide with moderately wide notch. Posterior region: blunt.
+Class detected:oval, crenate to and entire to lobed dorsal and entire to and sinuate ventral margins.
+Key distinguishing features supporting this identification:
+[Feature 1]
+[Feature 2]
+[Feature 3]
+</Key distinguishing features>
+If the otolith matches multiple possible species, explain the key distinguishing features between them and why you've selected your final identification.
+
+
+
+Class detected:oval, crenate to and entire to lobed dorsal and entire to crenate ventral margins.
+</Class detected>
+</Class detected>
+</Class detected>
+</Class detected>
+</Class detected>
+</Class detected>
+</Class detected>
+</Class detected>
+</Class detected>
+</Class detected>
+</Class detected>
+</",0.37037037037037035
+Cubiceps baxteri_Sp_9_R (15).tif,"Type: Sagittal, Side: Right otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region: irregular to blunt, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Right otolith. Shape:oval, sinuate to lobed dorsal and entire to crenate ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular, longer than cauda. Cauda: tubular, straight. Anterior region: angled, rostrum and antirostr blunt, excisura moderately wide with acute, deep notch. Posterior region: round.
+Class detected:oval, slightly curved.
+Key distinguishing features supporting this identification: peaked, rostrum blunt and antirostr poorly defined or blunt, excisura moderately wide with acute, deep notch.
+Class detected:oval, slightly curved.
+</Class detected>
+</SPECIES_PREDICTION>
+
+If the otolith matches multiple possible species, explain the key distinguishing features between them and why you've selected your final identification.
+
+
+Based on the morphological features described above, this otolith most closely matches [Scientific name].
+Key distinguishing features supporting this identification:
+
+[Feature 1]
+[Feature 2]
+[Feature 3]
+</SPECIES_PREDICTION>
+
+If the otolith matches multiple possible species, explain the shape (oval, rectangular, and cren",0.3756345177664975
+Cubiceps baxteri_Sp_10_L (9).tif,"Type: Sagittal, Side: Left otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region:round to angled, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Left otolith. Shape:oval, crenate to lobed dorsal and entire tooval ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular, longer than cauda. Cauda: tubular, straight. Anterior region: angled, rostrum and antirostr blunt, excisura moderately wide with moderately deep notch. Posterior region: blunt.
+Class detected:oval, crenate to and lobed dorsal and entire ventral margins.
+Key distinguishing features supporting this identification:
+
+[Feature 1]
+[Feature 2]
+[Feature 3]
+</Key distinguishing features>
+</SPECIES_PREDICTION>
+
+If the otolith matches multiple possible species, explain the key distinguishing features between them and why you've selected your final identification.
+
+
+
+</SPECIES_PREDICTION>
+
+</OSTIUM>
+<CAUDA> Describe shape (tubular, straight, curved, flexed), orientation (straight, curved, flexed), and endpoint location </CAUDA>
+<ANTERIOR_REGION>
+Shape:oval, rostrum and antirostr poorly defined, excisura moderately wide with shallow notch.",0.37777777777777777
+Cubiceps baxteri_Sp_10_R (32).tif,"Type: Sagittal, Side: Right otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region: irregular to blunt, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Right otolith. Shape:oval, sinuate to crenate dorsal and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular, longer than cauda. Cauda: tubular, slightly curved. Anterior region: angled, rostrum blunt and antirostr blunt, excisura moderately wide with wide shallow notch. Posterior region: round to moderately double-peaked.
+Class detected:oval, sinuate to crenate dorsal and entire to crenate ventral margins.
+Key distinguishing features supporting this identification:oval, rostrum blunt and antirostr poorly defined, excisura and notch poorly defined.
+Class detected:oval, slightly curved.
+</Class detected>
+If the otolith matches multiple possible species, explain the key distinguishing features between them and why you've selected your final identification.
+
+
+
+Class detected:oval, sinuate to crenate dorsal and entire to crenate ventral margins.
+</Class detected>
+</SPECIES_PREDICTION>
+
+and any notable characteristics.
+
+If the otolith matches multiple possible species, explain the key distinguishing features between them and why you've selected your final identification.
+
+",0.3786407766990291
+Cubiceps baxteri_Sp_10_L (8).tif,"Type: Sagittal, Side: Left otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region:round to angled, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Left otolith. Shape:oval, crenate to lobed dorsal and entire tooval ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular, longer than cauda. Cauda: tubular, straight. Anterior region: peaked, rostrum and antirostr poorly defined, excisura and notch poorly defined. Posterior region: angled.
+Class detected:oval, crenate to and lobed dorsal and entire ventral margins.
+Key distinguishing features supporting this identification:
+
+[Feature 1]
+[Feature 2]
+[Feature 3]
+</Key distinguishing features>
+</Feature region>
+</POSTERIOR_REGION>
+MARGINS:oval, entire to sinuate dorsal and entire ventral margins.
+For flatfish, include:
+<CIRCUMSULCAL_DEPRESSION> Describe if complete/incomplete, width, proximity to sulcus </CIRCUMSULCAL_DEPRESSION>
+<OSTIUM> Describe shape (funnel-like, shorter than cauda. Cauda: tubular, straight. Anterior region: angled to round, rostrum and antirostr poorly defined, excisura moderately wide with wide, shallow notch",0.3798882681564246
+Cubiceps baxteri_Sp_10_L (35).tif,"Type: Sagittal, Side: Left otolith. Shape:oval, sinuate to crenate dorsal, and entire to sinuate ventral margins. Sulcus acusticus: heterosulcoid, median. Ostium: Funnel-like, shorter than cauda. Cauda: tubular, strongly curved. Anterior region:round to angled, rostrum angled and antirostrum blunt, excisura moderately wide and acute notch. Posterior region: round.","Type: Sagittal. Side: Left otolith. Shape:oval, crenate to lobed dorsal and entire to crenate ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular, longer than cauda. Cauda: tubular, straight. Anterior region: angled, rostrum and antirostr blunt, excisura moderately wide with wide, shallow notch. Posterior region: round.
+Class detected:oval, crenate to and entire to lobed dorsal and entire to sinuate ventral margins.
+Key distinguishing features supporting this identification:
+[Feature 1]
+[Feature 2]
+[Feature 3]
+</Key distinguishing features>
+If the otolith matches multiple possible species, explain the key distinguishing features between them and why you've selected your final identification.
+
+
+
+model
+Type: Sagittal. Side: Left otolith. Shape:oval, crenate to lobed dorsal and entire to shallow ventral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: tubular, longer than cauda. Cauda: tubular, straight. Anterior region: angled, rostrum and antirostr blunt, excisura",0.380952380952381
