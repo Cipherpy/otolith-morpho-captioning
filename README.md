@@ -25,6 +25,12 @@ This repository provides tools and pipelines for **uploading, processing, and an
      - Optional overlays/figures for presentations
 ---
 
+3) **Sample caption output**
+
+```
+caption: "Type: Sagittal. Side: Right otolith. Shape: oval, sinuate to creante dorsal and serrate entral margins. Sulcus acusticus: heterosulcoid, ostial, median. Ostium: Funnel-like. Cauda: tubular, strongly curved. Anterior region: blunt, rostrum blunt and antirostrum blunt or poorly developed, excisura wide with wide, shallow notch. Posterior region: blunt."
+
+
 ## 📂 Repository Structure  
 
 
