@@ -4,27 +4,25 @@ This repository provides tools and pipelines for **uploading, processing, and an
 
 ---
 
-## 🚀 Features  
+## 🚀 Features
 
-- **Image Upload Interface**  
-  - Upload raw otolith images (`.jpg`, `.png`, `.tiff`).  
-  - Automatic quality checks (size, resolution, grayscale conversion if needed).  
+1) **Out-of-Distribution (OOD) Detection**
+   - Detects when an **input otolith belongs to a species not present in the training set**.
+   - Helpful for **flagging candidate new records/species** or mislabeled samples.
+   - Includes:
+     - ID–OOD split utilities
+     - Mahalanobis/kNN/energy-score baselines
+     - Threshold tuning + reliability curves
+     - Generalization gap metrics (𝐺 = M̄_ID − M̄_OOD)
 
-- **Morphological Feature Extraction**  
-  - **Sulcus acusticus**  
-  - **Cauda**  
-  - **Ostium**  
-  - **Posterior region**  
-  - Additional margins (dorsal, ventral)  
-
-- **AI-Powered Analysis**  
-  - Captioning of features using **Gemma-3** and **LLaMA-3.2** finetuned models.  
-  - Species-level prediction and classification.  
-  - Out-of-distribution (OOD) stability checks.  
-
-- **Visualization**  
-  - Radial bar plots of feature frequency.  
-  - Confusion matrices (row-normalized).    
+2) **Morphology Feature Generation (VLM-based)**
+   - **Upload an otolith image** and auto-generate **taxonomy-aligned morphological descriptors**:
+     - *sulcus acusticus*, *ostium*, *cauda*, *posterior region*, margins.
+   - Uses **finetuned Gemma-3** and **LLaMA-3.2** captioners to produce concise, expert-style text.
+   - Outputs:
+     - Structured JSON of features (for downstream analysis)
+     - Human-readable captions (for reports/manuscripts)
+     - Optional overlays/figures for presentations
 ---
 
 ## 📂 Repository Structure  
