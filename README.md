@@ -30,3 +30,8 @@ This repository provides tools and pipelines for **uploading, processing, and an
 ## 📂 Repository Structure  
 
 
+---
+- **cnn/** → for CNN baselines (ResNet, VGG, etc.).  
+- **captioning/** → for VLM-based morphological description.  
+- **ood/** → for OOD splits and generalization gap calculations.  
+
