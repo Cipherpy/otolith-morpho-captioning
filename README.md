@@ -35,3 +35,15 @@ This repository provides tools and pipelines for **uploading, processing, and an
 - **captioning/** → for VLM-based morphological description.  
 - **ood/** → for OOD splits and generalization gap calculations.  
 
+
+
+## 📖 Citation  
+
+If you use this repository in your research, please cite:  
+
+@article{YourName2025OtolithAI,
+title = {Automated Otolith Morphology Analysis using AI},
+author = {Your Name and Collaborators},
+journal = {Under Submission},
+year = {2025}
+}
