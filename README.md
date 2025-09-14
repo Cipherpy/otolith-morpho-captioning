@@ -47,3 +47,9 @@ author = {Your Name and Collaborators},
 journal = {Under Submission},
 year = {2025}
 }
+
+## Contact
+For questions or issues, please open an issue in this repository or contact the maintainers
+
+#### Name: Reshma B
+#### Email: reshmababuraj89@gmail.com
