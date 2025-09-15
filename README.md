@@ -1,4 +1,6 @@
-# Otolith-Morpho-Captioning: Morphology-Grounded Vision–Language Modeling for Taxonomic Explainability
+# 🐟 Otolith-Morpho-Captioning
+
+## Morphology-Grounded Vision–Language Modeling for Taxonomic Explainability
 
 Problem. Taxonomic identification in ichthyology increasingly relies on image pipelines, yet current models lack morphology-grounded explainability and degrade under domain shift (camera, illumination, geography, species OOD).
 Goal. This repository provides research-grade code and protocols to train and evaluate vision–language models (VLMs) that produce diagnostic, region-referential captions for otolith images, coupled to species ID and open-world/OOD robustness analyses.
