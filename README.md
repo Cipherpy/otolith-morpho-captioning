@@ -19,6 +19,33 @@ Taxonomic identification in ichthyology is increasingly dependent on image-based
 
 ---
 
+## 🚀 What’s New
+
+### 🧩 Region-aware captioning
+Explicit references to diagnostic otolith parts (sulcus acusticus, ostium, cauda, posterior margin) through weak/strong supervision and slot prompting, enabling morphology-grounded descriptions.
+
+### 📐 Morphology-to-label consistency
+Novel constraints and loss functions that enforce alignment between textual claims and visual evidence using:
+
+- token-to-ROI attention regularizers
+
+- part-slot stability constraints
+
+- boundary-aware contrastive terms
+
+### 🌍 Generalization & OOD testing
+
+Robust evaluation across ID/OOD splits (species).
+With metrics: BLEU-1-4, ROUGE-L
+
+### 🔎 Explainability suite
+Cross-modal attribution tools including Grad-CAM++, Attention Rollout, and Relevance Propagation, benchmarked against part masks.
+Introduces Counterfactual Caption Tests (CCT) to systematically penalize hallucinated traits.
+
+📊 Beyond n-grams: Morphology Alignment Score (MAS)
+A new evaluator that parses captions into trait-level assertions and validates them against learned part detectors / segmenters, directly measuring grounded faithfulness.
+
+
 ## 🚀 Features  
 
 ### 1. Out-of-Distribution (OOD) Detection  
