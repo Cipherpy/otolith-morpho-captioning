@@ -5,9 +5,9 @@
 
 Taxonomic identification in ichthyology is increasingly dependent on image-based pipelines. However, existing models often fail to deliver morphology-grounded explainability and suffer severe performance degradation under domain shifts (e.g., changes in camera setup, illumination, geography, or out-of-distribution species).
 
-### 🎯 Goal
+## 🎯 Goal
 
-This repository provides research-grade code and reproducible protocols for training and evaluating vision–language models (VLMs) that generate diagnostic, region-referential captions for otolith images. The system is designed to:
+#### This repository provides research-grade code and reproducible protocols for training and evaluating vision–language models (VLMs) that generate diagnostic, region-referential captions for otolith images. The system is designed to:
 
 - Ground textual outputs in morphological regions (sulcus, ostium, cauda, posterior margin).
 
