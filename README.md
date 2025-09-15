@@ -9,13 +9,13 @@ Taxonomic identification in ichthyology is increasingly dependent on image-based
 
 This repository provides research-grade code and reproducible protocols for training and evaluating vision–language models (VLMs) that generate diagnostic, region-referential captions for otolith images. The system is designed to:
 
-Ground textual outputs in morphological regions (sulcus, ostium, cauda, posterior margin).
+- Ground textual outputs in morphological regions (sulcus, ostium, cauda, posterior margin).
 
-Couple captioning with species identification tasks.
+- Couple captioning with species identification tasks.
 
-Benchmark robustness under open-world and OOD (out-of-distribution) settings.
+- Benchmark robustness under open-world and OOD (out-of-distribution) settings.
 
-Built for researchers aiming to push the frontier of explainable multimodal AI in taxonomy, ecology, and fisheries science.
+- Built for researchers aiming to push the frontier of explainable multimodal AI in taxonomy, ecology, and fisheries science.
 
 ---
 
