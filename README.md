@@ -1,4 +1,4 @@
-# Otolith Morphology AI  
+# Otolith-Morpho-Captioning: Morphology-Grounded Vision–Language Modeling for Taxonomic Explainability
 
 This repository provides tools and pipelines for **uploading, processing, and analyzing otolith images** to extract and explain morphological features. The project aims to build **explainable AI systems** for fish taxonomy, with applications in species identification, ecological monitoring, and fisheries science.  
 
